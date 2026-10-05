@@ -3,9 +3,8 @@ We will document our process in this folder.
 
 |Steps|Here|
 |-----|---------|
-|1| I did something|
-|2| Also did something here|
-|3| Actually did nothing here|
+|[28.01](#2801)| I did something|
+|[29.01](#2901)| Also did something here|
 
 ## Links
 
@@ -15,10 +14,27 @@ We will document our process in this folder.
 [Arena Animation](https://www.are.na/block/37965824)
 
 
----
-
-![Cool stuff i did](Images/frame_0006.png) 
-
-![](Images/frame_0006.png) ![](Images/frame_0006.png) ![](Images/frame_0006.png)
 
 
+## Images
+
+||||
+|---------|----|-----|
+|[![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding) | [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)| [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)|
+|[![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding) | [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)| [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)|
+|[![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding) | [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)| [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)|
+
+
+
+
+
+## Notes 
+
+
+### 28.01.
+aaaa
+
+
+
+### 29.01.
+aaaa
