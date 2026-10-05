@@ -1,7 +1,7 @@
 # Process
 We will document our process in this folder.
 
-|Steps|Here|
+|Dates|Progress|
 |-----|---------|
 |[28.01](#2801)| I did something|
 |[29.01](#2901)| Also did something here|
