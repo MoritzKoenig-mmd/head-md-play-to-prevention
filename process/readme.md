@@ -18,11 +18,11 @@ We will document our process in this folder.
 
 ## Images
 
-||||
-|---------|----|-----|
-|[![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding) | [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)| [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)|
-|[![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding) | [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)| [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)|
-|[![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding) | [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)| [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)|
+|||||
+|---------|----|-----|----|
+|[![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding) | [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)| [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)| [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)|
+|[![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding) | [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)| [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)| [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)|
+|[![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding) | [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)| [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)| [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)|
 
 
 
