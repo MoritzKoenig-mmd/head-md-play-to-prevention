@@ -7,7 +7,7 @@ Step on stage. The host is waiting.
 
 ## Pitch
 
-Horror has always had a hold on children and teens, on screen and in games. *Skill Issue* turns that thrill into a game show where everybody is staring the digital host is ... well ... questionable.
+Horror has always had a hold on children and teens, on screen and in games. *Skill Issue* turns that thrill into a game show where everybody is staring and the digital host is ... well ... questionable.
 
 
 ![Slender Man](https://static.wikia.nocookie.net/theslenderman/images/9/91/Slender_Eight_Pages.png/revision/latest?cb=20130203200044)
