@@ -9,6 +9,21 @@ Step on stage. The host is waiting.
 
 Horror has always had a hold on children and teens, on screen and in games. *Skill Issue* turns that thrill into a game show where everybody is staring and the digital host is ... well ... questionable.
 
+The host is the heart of the game. Behind his showman smile, he uses everything a bully would: he mocks your name and your looks, turns your avatar into a clown, and asks questions only insiders can answer. The interface joins in too. Buttons flee, the audience stays silent, and a spotlight makes sure everyone is watching. You came to play. He came to win. His definition of winning can be different though.
+
+
+**Bullying mechanics**
+
+- **Mocking:** When you fail, the host mocks your looks, your name and more.
+- **Sabotage:** Anti-design works against you at every step.
+- **Inside jokes:** Questions you can't possibly know the answer to.
+- **Clown avatar:** Your avatar gets changed into a clown.
+- **Fleeing buttons:** The right answer moves away from your cursor, so you can only pick the wrong one.
+- **Ask the Audience:** Nobody responds. You're left on read.
+- **Spotlight:** A spotlight follows your cursor. The more you move or hesitate, the louder the audience laughs. Stay still and you're called "boring."
+- **Your name:** The host asks you to type your name. Autocorrect turns it into something embarrassing, then he mispronounces it on purpose.
+- **Caption This:** You write a caption for a photo. The host "improves" it into something humiliating and posts it under your name.
+
 
 ![Slender Man](https://static.wikia.nocookie.net/theslenderman/images/9/91/Slender_Eight_Pages.png/revision/latest?cb=20130203200044)
 
@@ -45,22 +60,8 @@ https://beinternetawesome.withgoogle.com/en_us/interland/reality-river
 
 
 
-## Insights
-
-The host is the heart of the game. Behind his showman smile, he uses everything a bully would: he mocks your name and your looks, turns your avatar into a clown, and asks questions only insiders can answer. The interface joins in too. Buttons flee, the audience stays silent, and a spotlight makes sure everyone is watching. You came to play. He came to win. His definition of winning can be different though.
 
 
-**Bullying mechanics**
-
-- **Mocking:** When you fail, the host mocks your looks, your name and more.
-- **Sabotage:** Anti-design works against you at every step.
-- **Inside jokes:** Questions you can't possibly know the answer to.
-- **Clown avatar:** Your avatar gets changed into a clown.
-- **Fleeing buttons:** The right answer moves away from your cursor, so you can only pick the wrong one.
-- **Ask the Audience:** Nobody responds. You're left on read.
-- **Spotlight:** A spotlight follows your cursor. The more you move or hesitate, the louder the audience laughs. Stay still and you're called "boring."
-- **Your name:** The host asks you to type your name. Autocorrect turns it into something embarrassing, then he mispronounces it on purpose.
-- **Caption This:** You write a caption for a photo. The host "improves" it into something humiliating and posts it under your name.
 
 
 
