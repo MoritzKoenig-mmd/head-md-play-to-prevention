@@ -1,22 +1,27 @@
-# Game on! Let's bully!
+# Skill Issue
 
 
-A gameshow where you get bullied by the game host
+Step on stage. The host is waiting.
 
 ----
 
 ## Pitch
 
-Horror has always had a hold on children and teens, on screen and in games. *Game on! Let's bully!* brings that thrill into the spotlight of a game show, led by a host with questionable intentions.
-
-![Gravity Falls Triangle](https://static.wikia.nocookie.net/theslenderman/images/9/91/Slender_Eight_Pages.png/revision/latest?cb=20130203200044)
-
-![Gravity Falls Triangle](https://staticg.sportskeeda.com/editor/2020/12/6c4c7-16075916039158-800.jpg)
-
-![Gravity Falls Triangle](https://tr.rbxcdn.com/180DAY-c5215eabc21f46723f0084f99bb7622c/768/432/Image/Webp/noFilter)
+Horror has always had a hold on children and teens, on screen and in games. *Skill Issue* turns that thrill into a game show where everybody is staring the digital host is ... well ... questionable.
 
 
+![Slender Man](https://static.wikia.nocookie.net/theslenderman/images/9/91/Slender_Eight_Pages.png/revision/latest?cb=20130203200044)
 
+![Herobrine](https://staticg.sportskeeda.com/editor/2020/12/6c4c7-16075916039158-800.jpg)
+
+![Roblox Horror Game](https://tr.rbxcdn.com/180DAY-c5215eabc21f46723f0084f99bb7622c/768/432/Image/Webp/noFilter)
+
+
+## Inspiration//Moodboard
+
+https://beinternetawesome.withgoogle.com/en_us/interland/reality-river
+
+----
 
 ![Gravity Falls Triangle](https://static.wikia.nocookie.net/disney/images/4/41/Profile_-_Bill_Cipher.png/revision/latest?cb=20190318132904)
 
@@ -30,21 +35,50 @@ Horror has always had a hold on children and teens, on screen and in games. *Gam
 
 ![Machine Party](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2017940/b7687eda8f0c4fa0f63d46290645d9fd3552a21b/ss_b7687eda8f0c4fa0f63d46290645d9fd3552a21b.1920x1080.jpg?t=1792018624)
 
+![Machine Party](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2835570/ss_d2a1e047a3e3834ca6a7583241c360afc67d0680.1920x1080.jpg?t=1783085442)
+
+![Machine Party](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4064510/ad14c228ff38d06d705fb059ff438e671b4ba826/ss_ad14c228ff38d06d705fb059ff438e671b4ba826.1920x1080.jpg?t=1786543749)
+
+
+![Machine Party](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2087540/b1bc3c2912aebad4c5b736a1da31704f0c2c5720/ss_b1bc3c2912aebad4c5b736a1da31704f0c2c5720.1920x1080.jpg?t=1791986645)
+
+
+
+
+## Insights
+
+The host is the heart of the game. Behind his showman smile, he uses everything a bully would: he mocks your name and your looks, turns your avatar into a clown, and asks questions only insiders can answer. The interface joins in too. Buttons flee, the audience stays silent, and a spotlight makes sure everyone is watching. You came to play. He came to win. His definition of winning can be different though.
+
+
+**Bullying mechanics**
+
+- **Mocking:** When you fail, the host mocks your looks, your name and more.
+- **Sabotage:** Anti-design works against you at every step.
+- **Inside jokes:** Questions you can't possibly know the answer to.
+- **Clown avatar:** Your avatar gets changed into a clown.
+- **Fleeing buttons:** The right answer moves away from your cursor, so you can only pick the wrong one.
+- **Ask the Audience:** Nobody responds. You're left on read.
+- **Spotlight:** A spotlight follows your cursor. The more you move or hesitate, the louder the audience laughs. Stay still and you're called "boring."
+- **Your name:** The host asks you to type your name. Autocorrect turns it into something embarrassing, then he mispronounces it on purpose.
+- **Caption This:** You write a caption for a photo. The host "improves" it into something humiliating and posts it under your name.
 
 
 
 
 
-
-
-
+----
+----
 
 - https://worst-ui-challenge.vercel.app
 
-
-
 - https://create.seppo.io/player33ab/
     - Code: 2C37G3
+
+
+
+
+
+
 
 
 
