@@ -7,6 +7,7 @@ We will document our process in this folder.
 |[12.10](#1210)| Also did something here|
 |[13.10](#1310)| Also did something here|
 |[19.10](#1910)| Also did something here|
+|[02.11](#0211)| Also did something here|
 
 ## Links
 
@@ -188,6 +189,32 @@ Username:
 - Anti Design - getting bullied by a machine
 - 
 
+
+
+---
+
+[Back to Dates](#process)
+
+---- 
+
+### 02.11.
+
+- Memes
+- comformity
+- community rules
+---
+- world 
+- medium 
+- perosona 
+- prop 
+
+
+-----------
+-----------
+-----------
+- 
+
+---------------------------------------------------
 
 
 ---
