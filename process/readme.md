@@ -1,13 +1,14 @@
 # Process
 We will document our process in this folder.
 
-|Dates|Progress|
-|-----|---------|
-|[06.10](#0610)| I did something|
-|[12.10](#1210)| Also did something here|
-|[13.10](#1310)| Also did something here|
-|[19.10](#1910)| Also did something here|
-|[02.11](#0211)| Also did something here|
+|Dates|Progress|Pitch|
+|-----|---------|-----|
+|[06.10](#0610)| Thought about responsibility in tech and mapped out ways bullying can happen in the game world (gangs, roles, Slay-Score)| |
+|[12.10](#1210)| Storytelling theory (Propp, Kishōtenketsu, possible worlds) and first character IDs| |
+|[13.10](#1310)| Learned to start a story from the best idea, not the ending| |
+|[19.10](#1910)| Epistemology, Cow Clicker and anti-design: being bullied by a machine|[Skill Issue](2026-10-19-pitch.md): a horror game show where the host bullies you|
+|[02.11](#0211)| Memes, conformity and community rules; world, medium, persona, prop|[Nostalgic Pinball](2026-11-02-pitch.md): a goblin in an old pinball machine brings back buried school memories|
+|03.11| Wrote a bullying story about a viral meme|[Cyber Leak](2026-11-03-pitch.md): a humiliating sticker spreads through the group chats and follows you to a new school|
 
 ## Links
 
