@@ -15,18 +15,6 @@ We will document our process in this folder.
 
 [cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
-[Arena Animation](https://www.are.na/block/37965824)
-
-
-
-
-## Images
-
-|||||
-|---------|----|-----|----|
-|[![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding) | [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)| [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)| [![](Images/frame_0006.png)](https://en.wikipedia.org/wiki/Creative_coding)|
-
-
 
 
 ## Notes 
