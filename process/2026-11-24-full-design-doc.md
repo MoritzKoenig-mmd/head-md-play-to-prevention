@@ -2,8 +2,6 @@
  
 Sarah Courtade, Adam Hudec, Moritz König
  
-Nov 24, 2026
- 
 ## Overview
  
 A story about the signs of cyberbullying, seen through the eyes of a younger sibling who secretly borrows the older one's confiscated Nintendo 3DS.
