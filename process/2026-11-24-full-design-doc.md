@@ -68,6 +68,8 @@ The story runs over 6 or 8 nights. Each night has an internal timer that is not 
 - Missed clues do not reappear, but they transform into new clues
 - No visible score or checklist of clues
 - A found clue triggers a comment from Coco and an audiovisual cue
+
+
 | Clue spot | What changes |
 | --- | --- |
 | Stickers on the 3DS case | Ripped or replaced |
